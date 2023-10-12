@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaylanko
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS, JS & JQuery
-- 💞️ I’m looking to collaborate on Web Development
+- 🌱 I’m currently learning ReactJS!
+- 💞️ I’m looking to collaborate on React JS!
 - 📫 How to reach me : through github.
 
 <!---
